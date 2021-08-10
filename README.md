@@ -1,30 +1,5 @@
 # REDACTION DE L'API DU PROJET PROBLEME CITY : PROJET LIBRE INNOVANT
 
-## IMPLEMENTATION DE NOTRE FRONT EN REACTJS
-
-### POUR COMMENCER A CREER NOTRE FRONT :
-
-Création du dossier front avec React : **npx create-react-app client**
-    
-
-#### installation des packages pour le front :
-
-1. Installation des packages pour sass: **npm i -s node-sass // npm i -s node-sass@4.14.1**
-     
-2. Installation des packages pour la navigation : **react-router-dom**
-    
-3. installation de la librairie axios pour des requetes à notre api : **npm i -s axios**
-    
-4. Installation de dotenv aussi niveau client(Front) : **npm i -s dotenv**
-    
-5. Installation de libraire pour gérer les cookie niveau front : **npm i -s js-cookie**
-    
-6. Installation de redux et des packages qui lui sont associés : **npm i -s react-redux redux**
-    redux-thunk redux-logger redux-devtools-extension
-    
-7. Installation de la libraire nous permet de dire à l’utilisateur de se connecter avant de liker un post : **npm i -s reactjs-popup**
-
-
 ## API IMPLEMENTE EN NODESJ EXPRESS
 
 ### POUR COMMENCER A CREER L'API :
